@@ -171,6 +171,7 @@ body > .info {
 }
 
 .channel .subscriber {
+  margin-right: var(--padding);
   text-transform: uppercase;
   color: var(--red-color);
   font-size: var(--font-medium);
